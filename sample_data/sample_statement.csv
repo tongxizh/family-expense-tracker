@@ -1,0 +1,11 @@
+transaction_date,description,amount
+2026-01-02,ACME Payroll Direct Deposit,4200.00
+2026-01-03,Green Market Grocery,-124.83
+2026-01-05,City Electric Utility Bill,-98.22
+2026-01-08,Metro Fuel Station,-56.14
+2026-01-10,Rent Payment January,-1800.00
+2026-01-12,Neighborhood Coffee,-14.50
+2026-02-02,ACME Payroll Direct Deposit,4200.00
+2026-02-03,Family Supermarket,-136.74
+2026-02-06,StreamFlix Subscription,-17.99
+2026-02-10,Rent Payment February,-1800.00
