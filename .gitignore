@@ -1,0 +1,9 @@
+data/raw/
+data/processed/
+*.db
+*.sqlite
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
